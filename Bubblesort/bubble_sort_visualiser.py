@@ -115,7 +115,7 @@ def generate_starting_list(n, min_val, max_val):
 
 
 def main():
-    mixer.music.load('/Users/stawager/Kodowanie/python/projekty/bubble_sort_vis/dramatic.wav')
+    mixer.music.load('dramatic.wav')
     run = True
     timestamp = 10
     clock = pygame.time.Clock()
