@@ -1,7 +1,8 @@
 # __My first personal Python visualization projects using `pygame`__  
 ## Done: __Late 2021 / Early 2022__
 <p>
-  DISCLAIMER: Surely I'm not 100% happy with this code today, but hey, it's supposed to show how my Python journey started. I've always loved learing by doing, watching and experiencing something visually. Visualization has always been the hobby and passion of mine. So, here are some of my first <code>pygame</code> projects I managed to find on my hard drive. Obviously since I finished them couple of years ago, I didn't touch or change anything. This will be my legacy!
+  DISCLAIMER: Surely I'm not 100% happy with this code today. It's chaotic, in some of them I use OOP, in some I don't. In some of them I comment every chunk of code, in some I don't bother. But hey, it's supposed to show how my Python journey started. </br>
+  I've always loved learing by doing, watching and experiencing something visually. Visualization has always been the hobby and passion of mine. So, here are some of my first <code>pygame</code> projects I managed to find on my hard drive. Obviously I haven't touch or change anything since I finished them. This will be my legacy!
 </p>
 <h1>
   <br>A* Pathfinding</br>
