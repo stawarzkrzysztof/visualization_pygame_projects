@@ -44,7 +44,7 @@
   <br>Random Walker</br>
 </h1> 
 <p>
-  Simulation of the mathematical concept know as a "<a href="https://en.wikipedia.org/wiki/Random_walk" target="_blank">Random Walk</a>". The single black cell starting in the middle has 1/4 chances to go up, down, left or right. It's path sometimes creates interesting art.
+  Simulation of the mathematical concept know as a "<a href="https://en.wikipedia.org/wiki/Random_walk" target="_blank">Random Walk</a>". The single black cell starting in the middle has 1 1/4 chance to go either up, down, left or right. It's path sometimes creates interesting art.
 </p>
 <div style="text-align:center;">
   <img src="Random_Walker/random_walking.gif" alt="drawing" width="700"/>  
