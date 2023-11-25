@@ -1,4 +1,4 @@
-# __My first personal Python visualization project using `pygame`__  
+# __My first personal Python visualization projects using `pygame`__  
 ## Done: __February/March 2022__  
 # __1. A* Pathfinding__
 <div style="position: absolute; left: 50%;">
